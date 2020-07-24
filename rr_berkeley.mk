@@ -26,6 +26,6 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := berkeley
-PRODUCT_NAME := lineage_berkeley
+PRODUCT_NAME := rr_berkeley
 PRODUCT_BRAND := Huawei
 PRODUCT_MODEL := Honor View 10
